@@ -5,8 +5,13 @@ title: "Core-WR-NLP"
 authors:
   - family-names: "Mientus"
     given-names: "Lukas"
-repository-code: "REPLACE_WITH_YOUR_GITHUB_URL"
+repository-code: "https://lukasmientus.github.io/core-wr-nlp-pipeline"
+"
 license: "MIT"
+
+version: 0.1.0
+date-released: 2026-02-12
+
 preferred-citation:
   type: article
   title: "Linking Planning and Reflection in Teacher Education – An Algorithmic Pipeline for NLP-Based Matching of Structured Knowledge Representations and Free Text"
