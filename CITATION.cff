@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated arXiv preprint."
+type: software
+title: "Core-WR-NLP"
+authors:
+  - family-names: "Mientus"
+    given-names: "Lukas"
+repository-code: "REPLACE_WITH_YOUR_GITHUB_URL"
+license: "MIT"
+preferred-citation:
+  type: article
+  title: "Linking Planning and Reflection in Teacher Education – An Algorithmic Pipeline for NLP-Based Matching of Structured Knowledge Representations and Free Text"
+  authors:
+    - family-names: "Mientus"
+      given-names: "Lukas"
+  journal: "arXiv"
+  year: 2026
+  url: "REPLACE_WITH_ARXIV_URL"
