@@ -6,7 +6,7 @@ to **unstructured written reflections** at the sentence level using embedding-ba
 
 ## Author
 Lukas Mientus  
-Otto-von-Guericke University Magdeburg, Germany
+Otto-von-Guericke University Magdeburg, Germany  
 This repository accompanies the arXiv manuscript on the CoRe–Reflection NLP pipeline.
 
 ## What this repository provides
