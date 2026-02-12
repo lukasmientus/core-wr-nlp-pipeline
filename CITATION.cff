@@ -2,15 +2,16 @@ cff-version: 1.2.0
 message: "If you use this software, please cite the associated arXiv preprint."
 type: software
 title: "Core-WR-NLP"
+
 authors:
   - family-names: "Mientus"
     given-names: "Lukas"
-repository-code: "https://lukasmientus.github.io/core-wr-nlp-pipeline"
-"
+
+repository-code-url: "https://lukasmientus.github.io/core-wr-nlp-pipeline"
 license: "MIT"
 
-version: 0.1.0
-date-released: 2026-02-12
+version: "0.1.0"
+date-released: "2026-02-12"
 
 preferred-citation:
   type: article
