@@ -4,6 +4,11 @@ This repository accompanies an arXiv preprint that introduces a transparent, uns
 model-agnostic pipeline for linking **structured planning artifacts** (e.g., CoRe tables)
 to **unstructured written reflections** at the sentence level using embedding-based semantic similarity.
 
+## Author
+Lukas Mientus  
+Otto-von-Guericke University Magdeburg, Germany
+This repository accompanies the arXiv manuscript on the CoRe–Reflection NLP pipeline.
+
 ## What this repository provides
 
 - End-to-end pipeline:
